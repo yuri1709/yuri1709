@@ -1,16 +1,24 @@
-### Hi there 👋
+###                                 Olá mundo 🖥📱
 
-<!--
-**yuri1709/yuri1709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- Nome: Yuri Roliz
+- Idade: 23
+- Ocupação: Estudante 
+- Experiência de trabalho: Loja de vendas de roupas masculinas   
+- Meu aprendizado na área de T.I:
+ 
+  - Lógica de programação em C# e Portugol.
+  - Formação acadêmica: nenhuma.
+  - Formação técnica: <Em processo>
+          {
+           Curso técnico: Senac RJ
+           Conclusão do curso: Previsto para 2023 
+          }
+- Cursos complementares: 
+   - #Lógica de programação na Fundação Bradesco(Concluído)
+   - #Lógica de programação com C# na Udemy,professor:Nelio Alves(Em processo)    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 E-mail:  yuriconder184@hotmail.com
+  
+- 🔋 Hobbies:   
+--> Apaixonado por 🎮 video games,🛹andar de skate no final de semana e sair com os amsigos 🎢.
