@@ -4,11 +4,12 @@
 - Nome: Yuri Roliz
 - Idade: 23
 - Ocupação: Estudante 
+- Língua estrangeira: Inglês - Avançado
 - Experiência de trabalho: Loja de vendas de roupas masculinas   
 - Meu aprendizado na área de T.I:
  
   - Lógica de programação em C# e Portugol.
-  - Formação acadêmica: nenhuma.
+  - Formação acadêmica: Cursando Técnico de informática Brasil,Rio de Janeiro.
   - Formação técnica: <Em processo>
           {
            Curso técnico: Senac RJ
@@ -21,7 +22,7 @@
 - 📫 E-mail:  yuriconder184@hotmail.com
   
 - 🔋 Hobbies:   
---> Apaixonado por 🎮 video games,🛹andar de skate no final de semana e sair com os amsigos 🎢.
+--> Apaixonado por 🎮 video games,🛹andar de skate no final de semana e sair com os amigos 🎢.
  
 <div>
 <div align="left">
