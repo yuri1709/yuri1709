@@ -5,7 +5,6 @@
 - Idade: 23
 - Ocupação: Estudante 
 - Língua estrangeira: Inglês - Avançado
-- Experiência de trabalho: Loja de vendas de roupas masculinas   
 - Meu aprendizado na área de T.I:
  
   - Lógica de programação em C# e Portugol.
