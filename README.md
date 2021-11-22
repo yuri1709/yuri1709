@@ -1,7 +1,7 @@
 ###                               Olá mundo 🖥📱
 
 
-- Nome: Yuri Roliz
+<h1>- Nome: Yuri Roliz</h1>
 - Idade: 23
 - Ocupação: Estudante 
 - Língua estrangeira: Inglês - Avançado
@@ -19,9 +19,7 @@
    - #Lógica de programação com C# na Udemy,professor:Nelio Alves(Em processo)    
 
 - 📫 E-mail:  yuriconder184@hotmail.com
-  
-- 🔋 Hobbies:   
---> Apaixonado por 🎮 video games,🛹andar de skate no final de semana e sair com os amigos 🎢.
+
  
 <div>
 <div align="left">
