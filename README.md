@@ -1,10 +1,5 @@
 ###                               Olá mundo 🖥📱
-<style>
-.body{
- background-color: yellow;
- }
-</style>
-<body>
+
 - Nome: Yuri Roliz
 - Idade: 23
 - Ocupação: Estudante 
@@ -33,6 +28,6 @@
  </div>
  </div>
   
- </body>
+ 
 
 
