@@ -18,7 +18,7 @@
    - #Lógica de programação com C# na Udemy,professor:Nelio Alves(Em processo)    
 
 - 📫 E-mail:  yuriconder184@hotmail.com
-
+- 👨🏽‍💻 LinkedIn: https://www.linkedin.com/in/yuri-roliz-777808187/
  
 <div>
 <div align="left">
