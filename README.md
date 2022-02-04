@@ -1,7 +1,4 @@
 ###                               Olá mundo 🖥📱
-
-- Nome: Yuri Roliz
-- Idade: 23
 - Ocupação: Estudante 
 - Língua estrangeira: Inglês - Avançado
 - Meu aprendizado na área de T.I:
