@@ -14,8 +14,6 @@
    - #Lógica de programação na Fundação Bradesco(Concluído) 
 
 - 📫 E-mail:  yuriconder184@hotmail.com
-- 👨🏽‍💻 LinkedIn: https://www.linkedin.com/in/yuri-roliz-777808187/
- 
 <div>
 <div align="left">
   <a href="https://github.com/yuri1709">
