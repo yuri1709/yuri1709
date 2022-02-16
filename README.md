@@ -11,8 +11,7 @@
            Conclusão do curso: Previsto para 2023 
           }
 - Cursos complementares: 
-   - #Lógica de programação na Fundação Bradesco(Concluído)
-   - #Lógica de programação com C# na Udemy,professor:Nelio Alves(Em processo)    
+   - #Lógica de programação na Fundação Bradesco(Concluído) 
 
 - 📫 E-mail:  yuriconder184@hotmail.com
 - 👨🏽‍💻 LinkedIn: https://www.linkedin.com/in/yuri-roliz-777808187/
