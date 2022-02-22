@@ -1,6 +1,6 @@
 ###                               Olá mundo 🖥📱
 - Ocupação: Estudante 
-- Língua estrangeira: Inglês - Avançado
+- Língua estrangeira: Inglês
 - Meu aprendizado na área de T.I:
  
   - Lógica de programação em javascript e Portugol.
