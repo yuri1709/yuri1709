@@ -3,7 +3,8 @@
 - Língua estrangeira: Inglês - Avançado
 - Meu aprendizado na área de T.I:
  
-  - Lógica de programação em C# e Portugol.
+  - Lógica de programação em javascript e Portugol.
+  - Node.js developer.
   - Formação acadêmica: Cursando Técnico de informática Brasil,Rio de Janeiro.
   - Formação técnica: <Em processo>
           {
@@ -12,6 +13,7 @@
           }
 - Cursos complementares: 
    - #Lógica de programação na Fundação Bradesco(Concluído) 
+   - #NojeJS (Cursando)
 
 - 📫 E-mail:  yuriconder184@hotmail.com
 <div>
