@@ -13,7 +13,7 @@
           }
 - Cursos complementares: 
    - #Lógica de programação na Fundação Bradesco(Concluído) 
-   - #NojeJS (Cursando)
+   - #NodeJS (Cursando)
 
 - 📫 E-mail: #
 <div>
