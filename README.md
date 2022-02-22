@@ -15,7 +15,7 @@
    - #Lógica de programação na Fundação Bradesco(Concluído) 
    - #NojeJS (Cursando)
 
-- 📫 E-mail:  yuriconder184@hotmail.com
+- 📫 E-mail: #
 <div>
 <div align="left">
   <a href="https://github.com/yuri1709">
