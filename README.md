@@ -1,4 +1,4 @@
-###                               Olá mundo 🖥📱
+###                               Hello World 🖥📱
 - Ocupação: Estudante 
 - Língua estrangeira: Inglês
 - Meu aprendizado na área de T.I:
