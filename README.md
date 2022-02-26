@@ -16,12 +16,13 @@
    - #NodeJS (Cursando)
 
 - 📫 E-mail: #
+ 
+<div>
  <style> 
   .teste{
    float:right;
   }
  </style>
-<div>
 <div align="left">
    <h1 class="teste">Hello World</h1>
   <a href="https://github.com/yuri1709">
