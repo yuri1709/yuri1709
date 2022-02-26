@@ -17,13 +17,13 @@
 
 - 📫 E-mail: #
  <style> 
-  .h11{
-   color:red;
+  .teste{
+   float:right;
   }
  </style>
 <div>
 <div align="left">
-   <h1 class="h11">Hello World</h1>
+   <h1 class="teste">Hello World</h1>
   <a href="https://github.com/yuri1709">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yuri1709&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>   
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri1709&layout=compact&langs_count=7&theme=algolia"/>
