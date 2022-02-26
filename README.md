@@ -1,5 +1,5 @@
-<div>
-<h2>Welcome</h2>
+<div float:center>
+<h1>Welcome</h1>
 </div>
   
  
