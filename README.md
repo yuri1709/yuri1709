@@ -2,12 +2,7 @@
   <h1>Welcome</h1>
 </div>
 
-<div>
-  <p align="center">
-    <img align="center" src="https://i.imgur.com/3LYMQf6.png" alt="" style="width:400px;height:300px;">
-  </p>
-</div>
-  
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=yuri1709&label=Profile%20views&color=ce9927&style=flat" alt="yuri1709" /> </p>
  
 
 
