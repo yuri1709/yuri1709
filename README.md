@@ -7,7 +7,6 @@
 
 <div>
   <ul>
-    <h4>Languages that I am used to use :</h4>
       <li>
         <p align="left"> 
           <img src="https://i.imgur.com/Gex2qeb.png" alt="HTML5" width="35px" height="35px"> &nbsp      
